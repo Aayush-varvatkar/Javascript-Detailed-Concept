@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Alert Prompt Confirm</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    Hello world
+    <!-- <script src="script.js"></script> -->
+</body>
+
+<script>
+
+    alert("Enter the value of a");
+    let a = prompt("Enter a", "555");
+    a = Number.parseInt(a)
+    alert("The value is  " + a + (typeof a));
+    // document.write(a);
+
+    let con = confirm("Do you want to print this value");
+    if (con) {
+        document.write(a);
+    }
+    else {
+        document.write("Please allow me to print");
+    }
+
+</script>
+
+</html>
