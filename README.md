@@ -9,19 +9,6 @@
 
 ---
 
-## 💡 Recommended Repository Names
-
-If you want to rename `Javascript-Detailed-Concept` on GitHub for better discoverability and portfolio presentation:
-
-| Name Suggestion | Why it Works |
-| :--- | :--- |
-| **`JavaScript-Mastery-Lab`** *(Recommended)* | Modern & professional title highlighting hands-on JS code experiments. |
-| **`Modern-JS-Core-To-DOM`** | Signals complete coverage from language fundamentals to DOM/BOM manipulation. |
-| **`JavaScript-Foundations-Vault`** | Clean and educational name ideal for developer portfolios. |
-| **`JS-Concept-Playground`** | Friendly and interactive name for JS learners and interview revision. |
-
----
-
 ## 📌 Repository Overview
 
 This repository is structured to guide developers through the core foundations of modern JavaScript up to advanced browser DOM/BOM manipulation. It includes working `.js` logic files and interactive `.html` demonstrations.
